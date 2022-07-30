@@ -12,3 +12,7 @@
 Дела для органайзера хранятся в локальном хранилище, 
 
 Демо: [https://rigist.github.io/calendar-react/index.html](https://rigist.github.io/calendar-react/index.html)
+
+## Инструкция по запуску приложения
+* Установка - `npm i`
+* Запуск приложения - `npm start`
