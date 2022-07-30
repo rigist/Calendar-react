@@ -10,4 +10,5 @@
 для переключения на следующий или предыдущий месяц.
  
 Дела для органайзера хранятся в локальном хранилище, 
- 
+
+Демо: [https://rigist.github.io/calendar-react/index.html](https://rigist.github.io/calendar-react/index.html)
